@@ -47,6 +47,7 @@ function App() {
                             exact={exact}
                             component={Component}/>
                 ))}
+                 <Route path="/" exact render={() => <Redirect to="/main"/>}/>
             </Switch>
         </div>
     </Router>
