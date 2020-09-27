@@ -1,0 +1,22 @@
+.main_wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 55px 0;
+}
+.main_img {
+    width: 600px;
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    overflow: hidden;
+    margin: 35px 0;
+    box-shadow: 20px 21px 0px 0px rgb(0, 204, 194);
+}
+
+.main_text {
+    max-width: 800px;
+}

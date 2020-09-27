@@ -1,0 +1,22 @@
+*{
+  box-sizing: border-box;
+ } 
+ body {
+  margin: 0;
+  padding: 0;
+}
+#root {
+  margin-top: auto;
+  width:100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 80px;
+}
+h1 {
+  font-size: 38px;
+  font-weight: bold;
+  color:  rgb(0, 204, 194);
+  text-align: center;
+  margin-top:45px;
+}

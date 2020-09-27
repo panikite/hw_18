@@ -1,0 +1,19 @@
+.interaction_wrapper {
+    display: flex;
+    padding-top: 15px;
+}
+.interaction_wrapper > div {
+    flex-basis: 25%;
+}
+.interaction_info {
+    color: #797684;
+    display: flex;
+    align-items: center;
+}
+.interaction_info:hover {
+    cursor: pointer;
+}
+.interaction_info > img {
+    height: 26px;
+    margin-right: 10px;
+}
