@@ -38,7 +38,7 @@ export const MENU = [
 function App() {
   return (
     <>
-     <Router>
+     <Router basename="/hw_18/">
         <div>
           <Header/>
             <Switch>
