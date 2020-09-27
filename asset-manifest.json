@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/hw-18/static/css/main.4e28d4d6.chunk.css",
+    "main.js": "/hw-18/static/js/main.a3e899a0.chunk.js",
+    "main.js.map": "/hw-18/static/js/main.a3e899a0.chunk.js.map",
+    "runtime-main.js": "/hw-18/static/js/runtime-main.9aa4aa70.js",
+    "runtime-main.js.map": "/hw-18/static/js/runtime-main.9aa4aa70.js.map",
+    "static/js/2.51ded7ab.chunk.js": "/hw-18/static/js/2.51ded7ab.chunk.js",
+    "static/js/2.51ded7ab.chunk.js.map": "/hw-18/static/js/2.51ded7ab.chunk.js.map",
+    "index.html": "/hw-18/index.html",
+    "precache-manifest.ae79e4d36731b76b7d4eb9127560b294.js": "/hw-18/precache-manifest.ae79e4d36731b76b7d4eb9127560b294.js",
+    "service-worker.js": "/hw-18/service-worker.js",
+    "static/css/main.4e28d4d6.chunk.css.map": "/hw-18/static/css/main.4e28d4d6.chunk.css.map",
+    "static/js/2.51ded7ab.chunk.js.LICENSE.txt": "/hw-18/static/js/2.51ded7ab.chunk.js.LICENSE.txt",
+    "static/media/comment.svg": "/hw-18/static/media/comment.08ace6de.svg",
+    "static/media/female.svg": "/hw-18/static/media/female.5c87994c.svg",
+    "static/media/heart.svg": "/hw-18/static/media/heart.4a182492.svg",
+    "static/media/mars.svg": "/hw-18/static/media/mars.07582995.svg",
+    "static/media/retweet.svg": "/hw-18/static/media/retweet.12f33f8a.svg",
+    "static/media/share.svg": "/hw-18/static/media/share.535a8690.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9aa4aa70.js",
+    "static/js/2.51ded7ab.chunk.js",
+    "static/css/main.4e28d4d6.chunk.css",
+    "static/js/main.a3e899a0.chunk.js"
+  ]
+}
